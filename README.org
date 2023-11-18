@@ -1,0 +1,7 @@
+* CALICO Fall 2023
+This is the github repository for problems done by í ¿.
+
+* Where do problems go?
+Problems should be in a separate folder in the problems folder. Please name the folder the id of the problem. It's recommended to add a tests folder in your problem's folder and to test your code.
+
+
